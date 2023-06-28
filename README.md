@@ -1,2 +1,2 @@
 # AI_training
-Some tasks and projects for machine or deep learning
+Some tasks and projects for ML/DL courses
